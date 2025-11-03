@@ -1,0 +1,34 @@
+// Portfolio.java
+public class Portfolio {
+    public static void main(String[] args) {
+        System.out.println("====== MY PORTFOLIO ======\n");
+
+        // Header
+        System.out.println("Name: k sousheel Kumar");
+        System.out.println("Tagline: Passionate Java & Web Developer\n");
+
+        // About Section
+        System.out.println("About Me:");
+        System.out.println("I'm a computer science student skilled in Java, HTML, CSS, and problem-solving.\n");
+
+        // Skills Section
+        System.out.println("Skills:");
+        System.out.println("- Java Programming");
+        System.out.println("- Web Development (HTML, CSS, JS)");
+        System.out.println("- Data Structures & Algorithms\n");
+
+        // Projects Section
+        System.out.println("Projects:");
+        System.out.println("1. Portfolio Website");
+        System.out.println("2. Calculator App");
+        System.out.println("3. Landing Page Design\n");
+
+        // Contact Section
+        System.out.println("Contact:");
+        System.out.println("Email: mintukukkala369example.com");
+        System.out.println("Phone: +91-9866664208\n");
+
+        // Footer
+        System.out.println("© 2025 k sousheel kumar| All Rights Reserved.");
+    }
+}
